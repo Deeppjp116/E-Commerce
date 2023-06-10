@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e74242b.css",
+    "main.js": "/static/js/main.4b751eec.js",
+    "static/media/banner-img old.png": "/static/media/banner-img old.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/headphone-prod-2.webp": "/static/media/headphone-prod-2.62c9faa99a0770201113.webp",
+    "static/media/earbuds-prod-3.webp": "/static/media/earbuds-prod-3.a317d55b6ddd68ea73b7.webp",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.c9fe49994b20fb3fe889.png",
+    "index.html": "/index.html",
+    "main.3e74242b.css.map": "/static/css/main.3e74242b.css.map",
+    "main.4b751eec.js.map": "/static/js/main.4b751eec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e74242b.css",
+    "static/js/main.4b751eec.js"
+  ]
+}
